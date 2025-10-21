@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "service": "Service1",
+        "login": "Login1"
+    },
+    {
+        "id": 2,
+        "service": "Service2",
+        "login": "Login2"
+    },
+    {
+        "id": 3,
+        "service": "Service3",
+        "login": "Login3"
+    },
+    {
+        "id": 4,
+        "service": "Service4",
+        "login": "Login4"
+    }
+]
