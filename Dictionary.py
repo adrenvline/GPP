@@ -1,3 +1,4 @@
+# Здесь находится словарь для перевода из хэш строки в читаемую строку
 upper_case = 'QWERTYUIOPASDFGHJKLZXCVBNM'
 lower_case = 'qwertyuiopasdfghjklzxcvbnm'
 digits = '1234567890'
